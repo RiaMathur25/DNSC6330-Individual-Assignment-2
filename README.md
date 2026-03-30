@@ -1,4 +1,4 @@
-# COMPAS Transparency Analysis — Python
+# COMPAS Analysis
 
 ## Individual Homework 2
 
